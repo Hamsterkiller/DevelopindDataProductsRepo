@@ -22,7 +22,6 @@ The simple GLM model has a $RMSE$ of 3.35, and an $R^2$ of 0.818.  While other m
 Algorithm Predictions
 ========================================================
 
-```{r}
 ![Prediction visualization.](./chart1.png)
 The relative 45 degree line shape of this simple plot of actual vs. predicted MPG values demonstrates the simple GLM's decent fit.
 
@@ -32,5 +31,3 @@ Shiny App
 ***
 ***
 This is a screenshot of the deployed shiny app.  It was tested and worked for various combinations of numeric inputs. It is available [here](https://hamsterkiller.shinyapps.io/DevelopindDataProductsRepo).
-
-
